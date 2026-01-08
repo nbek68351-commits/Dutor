@@ -1,0 +1,7 @@
+{
+  "name": "Dutor Tuner Pro",
+  "description": "A professional-grade musical instrument tuner specifically designed for the Dutor, featuring multi-language support (Uzbek, Kazakh, Russian), real-time frequency analysis, and session history tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
